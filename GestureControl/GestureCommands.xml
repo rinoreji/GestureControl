@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfCommandMappings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CommandMappings>
+    <CommandType>Process</CommandType>
+    <CommandParam>notepad</CommandParam>
+    <Gesture>DR</Gesture>
+  </CommandMappings>
+  <CommandMappings>
+    <CommandType>Shortcut</CommandType>
+    <CommandParam>%{LEFT}</CommandParam>
+    <Gesture>L</Gesture>
+  </CommandMappings>
+  <CommandMappings>
+    <CommandType>Shortcut</CommandType>
+    <CommandParam>%{RIGHT}</CommandParam>
+    <Gesture>R</Gesture>
+  </CommandMappings>
+  <CommandMappings>
+    <CommandType>Shortcut</CommandType>
+    <CommandParam>%{F4}</CommandParam>
+    <Gesture>DL</Gesture>
+  </CommandMappings>
+</ArrayOfCommandMappings>

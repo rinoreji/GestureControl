@@ -9,7 +9,7 @@ namespace GestureControl
 {
     public class DataManger
     {
-        public static readonly string GESTURE_CONTROLS_FILE = "GestureControls.xml";
+        public static readonly string GESTURE_CONTROLS_FILE = "GestureCommands.xml";
 
         public static List<CommandMappings> CommandsMaps { get; set; }
 
